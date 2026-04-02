@@ -1,0 +1,1 @@
+# cursor-add-rtl-switcher
